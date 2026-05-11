@@ -18,6 +18,23 @@ common:
     url: https://www.rxo.com
   - type: Platform
     url: https://www.rxo.com/rxo-connect
+  - type: Integrations
+    url: https://rxo.com/carriers/rxo-extra-3/marketplace/
+integrations:
+  - name: RXO-Logo-SVG
+  - name: RXO-Fuel-Card
+  - name: The National Association of Workplace Programs-Logo-RXO
+  - name: RXO-Logo
+  - name: TA Services-Logo
+  - name: Loves-Logo
+  - name: Rand-Mcnally
+  - name: Blue-Tiger-Logo
+  - name: Sirius-Logo
+  - name: AT&T-Logo-RXO
+  - name: Simplex-Group-Logo-RXO
+  - name: DAT Freight & Analytics- Logo- RXO
+  - name: Thermo-King-Logo
+  - name: RXO
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
