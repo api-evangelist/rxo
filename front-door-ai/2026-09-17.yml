@@ -1,0 +1,27 @@
+# Front Door AI Index — rxo — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: rxo
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.rxo.com
+  final_host: rxo.com
+  ownership: inherited
+  owner: rxo
+  shares_host_with: null
+  inherited_from: coyote.com
+  verdict: scored
+  score: null
+  host_score: 2
+  density: null
+  words: 755
+  tiers:
+    agentic: 0
+    core: 2
+    model: 0
+  ambiguous: 3
+  top_terms:
+    smart: 3
+    AI: 1
+    machine learning: 1
